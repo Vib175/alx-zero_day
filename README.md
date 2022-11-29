@@ -1,2 +1,3 @@
 my first readme
-only time to commit my work
+alx is great
+ok
